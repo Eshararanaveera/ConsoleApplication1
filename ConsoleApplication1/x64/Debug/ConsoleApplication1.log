@@ -1,0 +1,24 @@
+﻿  ConsoleApplication1.cpp
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,7): error C2059: syntax error: 'using namespace'
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,9): error C2601: 'main': local function definitions are illegal
+  D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,1):
+  this line contains a '{' which has not yet been matched
+  
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(111,11): error C2601: 'circlearea': local function definitions are illegal
+  D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,1):
+  this line contains a '{' which has not yet been matched
+  
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,11): error C2601: 'rectanglearea': local function definitions are illegal
+  D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,1):
+  this line contains a '{' which has not yet been matched
+  
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121,11): error C2601: 'squarearea': local function definitions are illegal
+  D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,1):
+  this line contains a '{' which has not yet been matched
+  
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,14): error C2563: mismatch in formal parameter list
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,14): error C2568: '<<': unable to resolve function overload
+  D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,14):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
+D:\Learning\c++\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
